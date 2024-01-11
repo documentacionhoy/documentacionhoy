@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Daniel Muñoz and I'm going to tell you something about me.
+- I am web developer.
+- Actually I am studyng Information Technology Engineering in UNED (Spain).
+- I am studyng in 42 Urduliz too.
