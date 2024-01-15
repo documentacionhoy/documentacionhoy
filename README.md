@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 My name is Daniel Muñoz and I'm going to tell you something about me.
 - I am web developer.
-- Actually I am studyng Information Technology Engineering in UNED (Spain).
-- I am studyng in 42 Urduliz too.
+- Actually I am studying Information Technology Engineering in UNED (Spain).
+- I am studying in 42 Urduliz too.
